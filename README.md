@@ -29,3 +29,8 @@ Find the bot responsible for comparing the values 2 and 3. Bot 1 receives both c
 
 # Criteria
 The winner is the first person to submit their code with the correct answer
+
+
+
+
+Advent of Code https://adventofcode.com/2016/day/10
