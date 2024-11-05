@@ -1,5 +1,5 @@
 # Technical Requirements
-Use programming language of your choice
+Use programming language of your choice. Use of AI is strictly prohibited for this challenge.
 
 # Challenge
 Using the Balance Bots input file, find the number of the bot that is responsible for comparing value-61 microchips with value-17 microchips.
@@ -33,4 +33,4 @@ The winner is the first person to submit their code with the correct answer
 
 \
 \
-Advent of Code https://adventofcode.com/2016/day/10
+Inspired by Advent of Code https://adventofcode.com/2016/day/10
