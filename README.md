@@ -2,7 +2,7 @@
 Use programming language of your choice. Use of AI is strictly prohibited for this challenge.
 
 # Challenge
-Using the Balance Bots input file, identify the bot that compares the value-1 and value-2 microchips.
+Using the Balance Bots input file, identify what is the number of the bot that is responsible for comparing value-61 microchips with value-17 microchips?
 
 
 # Example:
